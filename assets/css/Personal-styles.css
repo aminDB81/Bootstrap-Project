@@ -1,3 +1,12 @@
 .first-paragraph{
     line-height: 30px;
 }
+.lottie-container {
+    max-width: 100%;
+  }
+
+  @media (max-width: 500px) {
+    .lottie-container {
+      max-width: 300px; /* Adjust the max-width value for smaller screens */
+    }
+  }
