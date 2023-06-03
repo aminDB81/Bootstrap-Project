@@ -10,3 +10,16 @@
       max-width: 300px; /* Adjust the max-width value for smaller screens */
     }
   }
+
+  .fourth-section p {
+    line-height: 25px;
+    font-weight: bolder;
+  }
+
+  .fourth-section li {
+    list-style-type: none;
+    line-height: 30px;
+  }
+  .fourth-section ul {
+    padding: 0 0 0 0;
+  }
